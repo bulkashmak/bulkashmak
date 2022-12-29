@@ -4,7 +4,9 @@
 - ❤️‍🔥 My passion is game development. By the end of 2022 I decided to enroll on few game dev courses on Udemy. So far it's going smoothly and I'm working to one day become a part of the amazing game dev community.
 - 🤝 I'm open to new connections in game dev and building new relationships.
 - 👻 If you need any help with QA/QA automation, feel free to ask me on Discord or Telegram.
-- 🔗 How to reach me: Discord  bulkashmak#4700 , Telegram [@bulkashmak](https://t.me/bulkashmak).
+### 🔗 How to reach me
+- Discord  : bulkashmak#4700
+- Telegram : [@bulkashmak](https://t.me/bulkashmak).
 
 <!--
 **bulkashmak/bulkashmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
