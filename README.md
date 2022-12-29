@@ -8,7 +8,7 @@
 - Discord  : bulkashmak#4700
 - Telegram : [@bulkashmak](https://t.me/bulkashmak)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulkashmak)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulkashmak&show_icons=true&theme=transparent)
 <!--
 **bulkashmak/bulkashmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
