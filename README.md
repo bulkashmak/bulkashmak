@@ -8,7 +8,7 @@
 - Discord  : bulkashmak#4700
 - Telegram : [@bulkashmak](https://t.me/bulkashmak)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lxz2d4byvb763zh6q64easll7a&width=850)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lxz2d4byvb763zh6q64easll7a&count=3&width=850)
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
