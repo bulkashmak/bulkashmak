@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 👨‍💻 I'm working as QA automation engineer in Uzum Technologies. Biggest IT company in Uzbekistan that's building an ecosystem consisting of Fintech, Delivery, Foodtech and many other products.
-- ❤️‍🔥 My passion is game development. By the end of 2022 I decided to enroll few game dev courses on Udemy. So far it's going amazing and one day I'll be a part of amazing game dev community.
+- ❤️‍🔥 My passion is game development. By the end of 2022 I decided to enroll few game dev courses on Udemy. So far it's going smoothly and one day I'll be a part of amazing game dev community.
 - 🤝 I'm open to new connections in game dev and building new relationships online.
 - 👻 If you need any help with QA/QA automation, feel free to ask me on Discord or Telegram.
 - 🔗 How to reach me: Discord  bulkashmak#4700 , Telegram [@bulkashmak](https://t.me/bulkashmak).
