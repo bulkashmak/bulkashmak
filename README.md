@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👨‍💻 I'm working as QA automation engineer in Uzum Technologies. Uzum is the biggest IT company in Uzbekistan that's building an ecosystem consisting of Fintech, Delivery, Foodtech and many other products.
+- 👨‍💻 I'm working as QA automation engineer in Uzum Technologies. [Uzum](https://uzum.com/) is the biggest IT company in Uzbekistan that's building an ecosystem consisting of Fintech, Delivery, Foodtech and many other products.
 - ❤️‍🔥 My passion is game development. By the end of 2022 I decided to enroll on few game dev courses on Udemy. So far it's going smoothly and one day I'll be a part of amazing game dev community.
 - 🤝 I'm open to new connections in game dev and building new relationships.
 - 👻 If you need any help with QA/QA automation, feel free to ask me on Discord or Telegram.
