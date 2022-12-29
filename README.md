@@ -1,3 +1,4 @@
+https://img.shields.io/github/last-commit/bulkashmak/bulkashmak
 # Hi there 😶‍🌫️
 
 - 👨‍💻 I'm working as QA automation engineer in Uzum Technologies. [Uzum](https://uzum.com/) is the biggest IT company in Uzbekistan that's building an ecosystem of Fintech, Marketplace, Foodtech and many other products that are yet to come.
