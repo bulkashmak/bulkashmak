@@ -8,7 +8,7 @@
 - Discord  : bulkashmak#4700
 - Telegram : [@bulkashmak](https://t.me/bulkashmak)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lxz2d4byvb763zh6q64easll7a)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lxz2d4byvb763zh6q64easll7a&width=600)
 <!--
 **bulkashmak/bulkashmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
