@@ -11,7 +11,7 @@
 <!-- Markdown -->
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lxz2d4byvb763zh6q64easll7a&count=3&width=850)
 <!-- Markdown -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulkashmak&card_width=850&theme=transparent&layout=compact&hide_title=true&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulkashmak&card_width=850&theme=transparent&layout=compact&hide_title=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bulkashmak/bulkashmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
