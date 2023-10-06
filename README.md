@@ -1,8 +1,8 @@
 ![badges1](https://img.shields.io/github/last-commit/bulkashmak/bulkashmak)
 # Hi there! 😶‍🌫️
 
-- 👨‍💻 I'm working as a QA automation engineer at Uzum Technologies. [Uzum](https://uzum.com/) is the biggest IT company in Uzbekistan which's building an ecosystem of Fintech, Marketplace, Foodtech and many other products that are yet to come.
-- ❤️‍🔥 My passion is game development. I started with graphics programming, C/C++ and OpenGL. Atm I'm learning UE gameplay programming.
+- 👨‍💻 I'm working as a QA automation engineer at Uzum Technologies. [Uzum](https://uzum.com/)
+- ❤️‍🔥 My passion is game development.
 - 🤝 I'm open to new connections and building new relationships in Game dev and IT in general.
 - 👻 If you need any help with QA/QA automation, feel free to ask me on Discord or Telegram.
 ### 🌐 How to reach me
