@@ -1,12 +1,12 @@
 ![badges1](https://img.shields.io/github/last-commit/bulkashmak/bulkashmak)
 ## 😶‍🌫️ Hi there!
 
-- Work as QA automation engineer at [Uzum Technologies](https://uzum.com/)
+- Work as SDET at [Uzum Technologies](https://uzum.com/)
 
 ## 🌐 How to reach me
 
 - Discord  : bulkashmak#4700
-- Telegram : [@bulkashmak](https://t.me/bulkashmak)
+- Telegram : [@bulatmaskurov](https://t.me/bulatmaskurov)
 
 ## 🧙‍♂️ Boot.dev profile
 <p align="left">
