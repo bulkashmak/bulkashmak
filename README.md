@@ -1,13 +1,14 @@
 ![badges1](https://img.shields.io/github/last-commit/bulkashmak/bulkashmak)
-## Hi there! 😶‍🌫️
+## 😶‍🌫️ Hi there!
 
-- 👨‍💻 Work as QA automation engineer at [Uzum Technologies](https://uzum.com/)
+- Work as QA automation engineer at [Uzum Technologies](https://uzum.com/)
 
-### 🌐 How to reach me
+## 🌐 How to reach me
 
 - Discord  : bulkashmak#4700
 - Telegram : [@bulkashmak](https://t.me/bulkashmak)
 
+## Boot.dev profile
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/a81965b2-2f9c-44d3-a36e-682eb0e8521e/thumbnail" >
 </p>
