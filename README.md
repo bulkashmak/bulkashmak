@@ -8,7 +8,7 @@
 - Discord  : bulkashmak#4700
 - Telegram : [@bulkashmak](https://t.me/bulkashmak)
 
-## Boot.dev profile
+## 🧙‍♂️ Boot.dev profile
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/a81965b2-2f9c-44d3-a36e-682eb0e8521e/thumbnail" >
 </p>
